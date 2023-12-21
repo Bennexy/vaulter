@@ -1,0 +1,14 @@
+#!/bin/bash
+
+alias kssh="kitty +kitten ssh"
+alias auto-clicker="/home/ben/dev/tools/rusty-autoclicker/target/release/rusty-autoclicker"
+alias apt="echo 'Use nala instead!'"
+alias reload="source ~/.bashrc"
+alias copy='xclip -selection clipboard -o'
+alias btc='bluetoothctl connect 4C:87:5D:FA:70:FD'
+alias btd='bluetoothctl disconnect 4C:87:5D:FA:70:FD'
+
+alias penv='/home/ben/.bash/scripts/pyenv.sh'
+alias alert='/home/ben/dev/cli-tools/alerter/venv/bin/python /home/ben/dev/cli-tools/alerter/alert.py'
+
+

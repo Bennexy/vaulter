@@ -1,0 +1,11 @@
+# pyenv
+export PATH="$HOME/.pyenv/bin:$PATH"
+eval "$(pyenv init --path)"
+eval "$(pyenv virtualenv-init -)"
+
+
+# Menson
+PATH=$PATH:~/.local/bin
+
+
+source "$HOME/.homesick/repos/homeshick/homeshick.sh"
